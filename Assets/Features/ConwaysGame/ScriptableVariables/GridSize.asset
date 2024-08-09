@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e4d98c12fce9c47bc1cb4101fd850e, type: 3}
+  m_Name: GridSize
+  m_EditorClassIdentifier: 
+  _notes: Grids must be squares, hence the single value. The grid will be ThisValue
+    by ThisValue
+  _value: 150
+  _defaultValue: 100

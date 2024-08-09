@@ -1,0 +1,18 @@
+{
+    "name": "ConwaysGame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac07d7bdb0f3b4841a46f628c684e012",
+        "GUID:2b441c7a731023f43b7776bc54c8dab3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
